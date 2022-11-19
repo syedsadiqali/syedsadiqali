@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Sadiq ali</h1>
 <h3 align="center">Working with Javascript and it's Realm.</h3>
 
-- 🔭 I’m currently working on [Applause](applause.stream)
+- 🔭 I’m currently working with [Nagarro](nagarro.com)
 
-- 🌱 I’m currently learning **Python,AI, Data Science**
+- 🌱 I’m currently learning **Scala, TypeScript, Content Writing **
 
 - 👯 I’m looking to collaborate on **Any Super Funky Idea!**
 
