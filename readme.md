@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Sadiq ali</h1>
 <h3 align="center">Working with Javascript and it's Realm.</h3>
 
-- 🔭 I’m currently working with [Nagarro](https://nagarro.com)
+- 🔭 I’m currently working with [FoxInsights](https://foxinsights.ai)
 
 - 🌱 I’m currently learning **Remix, Svelte and Content Creation **
 
